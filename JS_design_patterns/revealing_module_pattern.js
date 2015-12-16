@@ -1,8 +1,8 @@
-var myRevealingModule = (function(){
+var myRevealingModule = (function() {
   var privateVar = 5;
   var publicVar = 10;
 
-  function privateMethod(){
+  function privateMethod() {
     return 'Private Test';
   }
 

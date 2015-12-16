@@ -1,4 +1,4 @@
-var SingletonTester = (function(){
+var SingletonTester = (function() {
 
   function Singleton(args) {
     args = args || {};
